@@ -1,0 +1,8 @@
+ANOVA results:
+    {'Source'}    {'SS'        }    {'df'  }    {'MS'      }    {'F'       }    {'Prob>F'  }
+    {'Groups'}    {[   13.2613]}    {[   5]}    {[  2.6523]}    {[  3.9590]}    {[  0.0014]}
+    {'Error' }    {[1.2869e+03]}    {[1921]}    {[  0.6699]}    {0×0 double}    {0×0 double}
+    {'Total' }    {[1.3002e+03]}    {[1926]}    {0×0 double}    {0×0 double}    {0×0 double}
+
+
+p-value: 0.001417
